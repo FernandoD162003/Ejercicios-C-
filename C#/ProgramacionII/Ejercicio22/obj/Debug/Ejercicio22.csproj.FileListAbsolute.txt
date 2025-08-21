@@ -1,0 +1,7 @@
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio22\bin\Debug\Ejercicio22.exe.config
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio22\bin\Debug\Ejercicio22.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio22\bin\Debug\Ejercicio22.pdb
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio22\obj\Debug\Ejercicio22.csproj.AssemblyReference.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio22\obj\Debug\Ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio22\obj\Debug\Ejercicio22.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio22\obj\Debug\Ejercicio22.pdb

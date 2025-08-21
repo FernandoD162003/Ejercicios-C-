@@ -1,0 +1,7 @@
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio23\bin\Debug\Ejercicio23.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio23\bin\Debug\Ejercicio23.pdb
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio23\obj\Debug\Ejercicio23.csproj.AssemblyReference.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio23\obj\Debug\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio23\obj\Debug\Ejercicio23.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio23\obj\Debug\Ejercicio23.pdb

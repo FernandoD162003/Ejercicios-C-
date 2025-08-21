@@ -1,0 +1,7 @@
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio27\bin\Debug\Ejercicio27.exe.config
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio27\bin\Debug\Ejercicio27.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio27\bin\Debug\Ejercicio27.pdb
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio27\obj\Debug\Ejercicio27.csproj.AssemblyReference.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio27\obj\Debug\Ejercicio27.csproj.CoreCompileInputs.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio27\obj\Debug\Ejercicio27.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio27\obj\Debug\Ejercicio27.pdb

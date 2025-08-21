@@ -1,0 +1,7 @@
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio8\obj\Debug\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio8\obj\Debug\Ejercicio8.pdb

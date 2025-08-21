@@ -1,0 +1,7 @@
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio19\obj\Debug\Ejercicio19.csproj.AssemblyReference.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio19\obj\Debug\Ejercicio19.pdb

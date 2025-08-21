@@ -1,0 +1,7 @@
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio15\bin\Debug\Ejercicio15.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio15\bin\Debug\Ejercicio15.pdb
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio15\obj\Debug\Ejercicio15.csproj.AssemblyReference.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio15\obj\Debug\Ejercicio15.csproj.CoreCompileInputs.cache
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio15\obj\Debug\Ejercicio15.exe
+C:\Users\Dicsor Hernández\source\Repos\ProgramacionII\Ejercicio15\obj\Debug\Ejercicio15.pdb

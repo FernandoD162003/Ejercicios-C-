@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28816224-73E7-4141-B0C2-984C56CEBF61}|Ejercicio30\\Ejercicio30.csproj|c:\\users\\diaze\\onedrive\\desktop\\programacionii\\ejercicio30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28816224-73E7-4141-B0C2-984C56CEBF61}|Ejercicio30\\Ejercicio30.csproj|solutionrelative:ejercicio30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB64D050-6D2F-4846-83E0-1C11D029CFE6}|Ejercicio29\\Ejercicio29.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB64D050-6D2F-4846-83E0-1C11D029CFE6}|Ejercicio29\\Ejercicio29.csproj|solutionrelative:ejercicio29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EA183D-7A07-4BD3-A2AF-3EAB2C9B71F1}|Ejercicio28\\Ejercicio28.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EA183D-7A07-4BD3-A2AF-3EAB2C9B71F1}|Ejercicio28\\Ejercicio28.csproj|solutionrelative:ejercicio28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBD5D-38B3-4ABA-B9B1-0371ACF706EA}|Ejercicio27\\Ejercicio27.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBD5D-38B3-4ABA-B9B1-0371ACF706EA}|Ejercicio27\\Ejercicio27.csproj|solutionrelative:ejercicio27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA94D6BE-5773-496F-83B7-1CC0AC64B74E}|Ejercicio26\\Ejercicio26.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA94D6BE-5773-496F-83B7-1CC0AC64B74E}|Ejercicio26\\Ejercicio26.csproj|solutionrelative:ejercicio26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BF7609-7975-4E1A-B3C7-B8F55DD4B9DB}|Ejercicio25\\Ejercicio25.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BF7609-7975-4E1A-B3C7-B8F55DD4B9DB}|Ejercicio25\\Ejercicio25.csproj|solutionrelative:ejercicio25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA34D8-613C-4415-A12E-099EA55EF490}|Ejercicio24\\Ejercicio24.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA34D8-613C-4415-A12E-099EA55EF490}|Ejercicio24\\Ejercicio24.csproj|solutionrelative:ejercicio24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D964E3-7C52-4D15-AB14-6CA1FF8097A8}|Ejercicio23\\Ejercicio23.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D964E3-7C52-4D15-AB14-6CA1FF8097A8}|Ejercicio23\\Ejercicio23.csproj|solutionrelative:ejercicio23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF968BCD-6962-42F7-A3AB-48BC8CD69062}|Ejercicio22\\Ejercicio22.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF968BCD-6962-42F7-A3AB-48BC8CD69062}|Ejercicio22\\Ejercicio22.csproj|solutionrelative:ejercicio22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18718D3E-3C7A-4759-B169-1FD4B6686BA2}|Ejercicio21\\Ejercicio21.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18718D3E-3C7A-4759-B169-1FD4B6686BA2}|Ejercicio21\\Ejercicio21.csproj|solutionrelative:ejercicio21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5F2837-8ECA-490D-B7FB-AA4477F5F9EB}|Ejercicio20\\Ejercicio20.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5F2837-8ECA-490D-B7FB-AA4477F5F9EB}|Ejercicio20\\Ejercicio20.csproj|solutionrelative:ejercicio20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9B533B-6B1A-4AAB-8AEE-6B1DA955D92A}|Ejercicio19\\Ejercicio19.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9B533B-6B1A-4AAB-8AEE-6B1DA955D92A}|Ejercicio19\\Ejercicio19.csproj|solutionrelative:ejercicio19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39DEAA-F5DD-48EE-935F-3E3E65DA1551}|Ejercicio18\\Ejercicio18.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39DEAA-F5DD-48EE-935F-3E3E65DA1551}|Ejercicio18\\Ejercicio18.csproj|solutionrelative:ejercicio18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DBB3B1-08FC-4437-859A-AE0B302F8CF4}|Ejercicio17\\Ejercicio17.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DBB3B1-08FC-4437-859A-AE0B302F8CF4}|Ejercicio17\\Ejercicio17.csproj|solutionrelative:ejercicio17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7CB98E-23A2-44A0-82B2-1BC670756D06}|Ejercicio16\\Ejercicio16.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7CB98E-23A2-44A0-82B2-1BC670756D06}|Ejercicio16\\Ejercicio16.csproj|solutionrelative:ejercicio16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AA20A1-A55A-4A43-A084-605F34FD3523}|Ejercicio15\\Ejercicio15.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AA20A1-A55A-4A43-A084-605F34FD3523}|Ejercicio15\\Ejercicio15.csproj|solutionrelative:ejercicio15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC70D0C-1B1C-48CF-AF43-7754C1D39BB1}|Ejercicio14\\Ejercicio14.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC70D0C-1B1C-48CF-AF43-7754C1D39BB1}|Ejercicio14\\Ejercicio14.csproj|solutionrelative:ejercicio14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB51570-19FA-4893-9CC0-ED56D6A03E48}|Ejercicio13\\Ejercicio13.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB51570-19FA-4893-9CC0-ED56D6A03E48}|Ejercicio13\\Ejercicio13.csproj|solutionrelative:ejercicio13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B28A0-CCA9-44FB-AD61-F1130EA9B4C7}|Ejercicio12\\Ejercicio12.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7B28A0-CCA9-44FB-AD61-F1130EA9B4C7}|Ejercicio12\\Ejercicio12.csproj|solutionrelative:ejercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A0052C-42FF-4B0C-8B69-7C6E2FDE155A}|Ejercicio11\\Ejercicio11.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A0052C-42FF-4B0C-8B69-7C6E2FDE155A}|Ejercicio11\\Ejercicio11.csproj|solutionrelative:ejercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629886BE-9242-448F-948E-07DBADE60C9B}|Ejercicio10\\Ejercicio10.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629886BE-9242-448F-948E-07DBADE60C9B}|Ejercicio10\\Ejercicio10.csproj|solutionrelative:ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B76AD-2354-4831-B973-8E1D44EAE8C6}|Ejercicio5\\Ejercicio5.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553B76AD-2354-4831-B973-8E1D44EAE8C6}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC7D5-89E7-4AAD-ABCE-9B6DA231C04D}|Ejercicio6\\Ejercicio6.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC7D5-89E7-4AAD-ABCE-9B6DA231C04D}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A23EB6-FF9D-4227-8A76-104F01EA95AB}|Ejercicio7\\Ejercicio7.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A23EB6-FF9D-4227-8A76-104F01EA95AB}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD73BB0-3F04-477D-B369-531AA2BD256F}|Ejercicio8\\Ejercicio8.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD73BB0-3F04-477D-B369-531AA2BD256F}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC682864-7E2C-4A04-865C-7F6376785C06}|Ejercicio9\\Ejercicio9.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC682864-7E2C-4A04-865C-7F6376785C06}|Ejercicio9\\Ejercicio9.csproj|solutionrelative:ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98E07E4-1C63-43D6-94ED-3FADE4E47536}|Ejercicio4\\Ejercicio4.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98E07E4-1C63-43D6-94ED-3FADE4E47536}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D9BE77-47F6-46E4-BAEC-CB02077EE569}|Ejercicio3\\Ejercicio3.csproj|C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D9BE77-47F6-46E4-BAEC-CB02077EE569}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio21\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio21\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio21\\Program.cs",
+              "RelativeToolTip": "Ejercicio21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:25:50.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio22\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio22\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio22\\Program.cs",
+              "RelativeToolTip": "Ejercicio22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:25:57.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio23\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio23\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio23\\Program.cs",
+              "RelativeToolTip": "Ejercicio23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:26:04.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio24\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio24\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio24\\Program.cs",
+              "RelativeToolTip": "Ejercicio24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:26:07.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio25\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio25\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio25\\Program.cs",
+              "RelativeToolTip": "Ejercicio25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:26:12.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio26\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio26\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio26\\Program.cs",
+              "RelativeToolTip": "Ejercicio26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:26:23.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio27\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio27\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio27\\Program.cs",
+              "RelativeToolTip": "Ejercicio27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:26:28.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio28\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio28\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio28\\Program.cs",
+              "RelativeToolTip": "Ejercicio28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:26:32.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio29\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio29\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio29\\Program.cs",
+              "RelativeToolTip": "Ejercicio29\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:26:40.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio30\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio30\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio30\\Program.cs",
+              "RelativeToolTip": "Ejercicio30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:26:46.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio20\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio20\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio20\\Program.cs",
+              "RelativeToolTip": "Ejercicio20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:25:37.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio19\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio19\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio19\\Program.cs",
+              "RelativeToolTip": "Ejercicio19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:25:24.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio18\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio18\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio18\\Program.cs",
+              "RelativeToolTip": "Ejercicio18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:25:13.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio17\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio17\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio17\\Program.cs",
+              "RelativeToolTip": "Ejercicio17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:25:10Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio16\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio16\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio16\\Program.cs",
+              "RelativeToolTip": "Ejercicio16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:25:05.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio15\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio15\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio15\\Program.cs",
+              "RelativeToolTip": "Ejercicio15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:24:59.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio14\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio14\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio14\\Program.cs",
+              "RelativeToolTip": "Ejercicio14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:24:53.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio13\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio13\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio13\\Program.cs",
+              "RelativeToolTip": "Ejercicio13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:23:57.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio12\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio12\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio12\\Program.cs",
+              "RelativeToolTip": "Ejercicio12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:23:51.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio11\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio11\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio11\\Program.cs",
+              "RelativeToolTip": "Ejercicio11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:23:44.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio10\\Program.cs",
+              "RelativeToolTip": "Ejercicio10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:23:38.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:27:42.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "Ejercicio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:27:47.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio7\\Program.cs",
+              "RelativeToolTip": "Ejercicio7\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:27:52.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio8\\Program.cs",
+              "RelativeToolTip": "Ejercicio8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:27:57.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio9\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio9\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio9\\Program.cs",
+              "RelativeToolTip": "Ejercicio9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:28:02.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:27:36.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\diaze\\OneDrive\\Desktop\\ProgramacionII\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:27:32.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
