@@ -21,6 +21,7 @@ namespace Ejercicio1
             string carrera = Console.ReadLine();
 
             Console.WriteLine("Hola " + nombre + ", tienes " + edad + " años y estudias " + carrera + ".");
+            Console.WriteLine("Hola");
             Console.ReadKey();
         }
     }
